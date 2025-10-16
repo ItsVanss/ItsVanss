@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Vanss!
+![Header](img/banner.png)
 
-💻 **Electromedical Engineering Student** | ⚙️ **Tech Enthusiast** | 🌐 **Web & Embedded Developer**
+
 
 I'm a first-year student at **Politeknik Kesehatan Surabaya**, majoring in **Technology of Electromedical Engineering**.  
 I love creating things — from **websites**, **IoT projects**, to **hardware systems** that connect the digital and physical world.
