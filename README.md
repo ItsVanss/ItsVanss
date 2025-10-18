@@ -64,12 +64,7 @@ I love creating things — from **websites**, **IoT projects**, to **hardware sy
 - 🧠 Always excited to **learn something new**  
 - 😖 Dislike **cockroaches**, **traffic jams**, and **carrot juice**
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanss&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanss&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
 
 ---
 
