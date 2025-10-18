@@ -1,4 +1,4 @@
-![Header](img/banner2.gif)
+![Header](img/banner3.gif)
 
 
 
